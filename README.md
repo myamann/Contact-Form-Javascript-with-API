@@ -8,4 +8,4 @@ Created with Html,Css and Javascript
 
 ### You are 100% allowed to use this webpage for both personal and commercial use, but NOT to claim it as your own design. :+1: 
 
-Live Demo: [Recipe-APP](https://contact-form-js.netlify.app/).
+Live Demo: [Contact-Form-Page](https://contact-form-js.netlify.app/).
